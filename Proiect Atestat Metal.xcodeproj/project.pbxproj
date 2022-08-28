@@ -1,0 +1,706 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1A01E1422658373600EED59D /* Slide1.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A01E1402658373600EED59D /* Slide1.obj */; };
+		1A01E1432658373600EED59D /* Slide1.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A01E1402658373600EED59D /* Slide1.obj */; };
+		1A01E1442658373600EED59D /* Slide1.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A01E1402658373600EED59D /* Slide1.obj */; };
+		1A01E1452658373600EED59D /* f1_high.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A01E1412658373600EED59D /* f1_high.obj */; };
+		1A01E1462658373600EED59D /* f1_high.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A01E1412658373600EED59D /* f1_high.obj */; };
+		1A01E1472658373600EED59D /* f1_high.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A01E1412658373600EED59D /* f1_high.obj */; };
+		1A06FBFF2656B54400CE1422 /* Alb.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFB2656B54400CE1422 /* Alb.obj */; };
+		1A06FC002656B54400CE1422 /* Alb.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFB2656B54400CE1422 /* Alb.obj */; };
+		1A06FC012656B54400CE1422 /* Alb.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFB2656B54400CE1422 /* Alb.obj */; };
+		1A06FC022656B54400CE1422 /* cce8f4.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFC2656B54400CE1422 /* cce8f4.obj */; };
+		1A06FC032656B54400CE1422 /* cce8f4.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFC2656B54400CE1422 /* cce8f4.obj */; };
+		1A06FC042656B54400CE1422 /* cce8f4.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFC2656B54400CE1422 /* cce8f4.obj */; };
+		1A06FC052656B54400CE1422 /* Planula3c1d9.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFD2656B54400CE1422 /* Planula3c1d9.obj */; };
+		1A06FC062656B54400CE1422 /* Planula3c1d9.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFD2656B54400CE1422 /* Planula3c1d9.obj */; };
+		1A06FC072656B54400CE1422 /* Planula3c1d9.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFD2656B54400CE1422 /* Planula3c1d9.obj */; };
+		1A06FC082656B54400CE1422 /* a3c1d9.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFE2656B54400CE1422 /* a3c1d9.obj */; };
+		1A06FC092656B54400CE1422 /* a3c1d9.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFE2656B54400CE1422 /* a3c1d9.obj */; };
+		1A06FC0A2656B54400CE1422 /* a3c1d9.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A06FBFE2656B54400CE1422 /* a3c1d9.obj */; };
+		1A06FC182656D54900CE1422 /* Prezentare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A06FC172656D54900CE1422 /* Prezentare.swift */; };
+		1A06FC192656D54900CE1422 /* Prezentare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A06FC172656D54900CE1422 /* Prezentare.swift */; };
+		1A06FC1A2656D54900CE1422 /* Prezentare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A06FC172656D54900CE1422 /* Prezentare.swift */; };
+		1A1E65B324C18FFB007A4A73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1E65B224C18FFB007A4A73 /* AppDelegate.swift */; };
+		1A1E65B524C18FFB007A4A73 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1E65B424C18FFB007A4A73 /* ViewController.swift */; };
+		1A1E65B724C18FFE007A4A73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A1E65B624C18FFE007A4A73 /* Assets.xcassets */; };
+		1A1E65BA24C18FFE007A4A73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A1E65B824C18FFE007A4A73 /* Main.storyboard */; };
+		1A1E65DF24C197F2007A4A73 /* Deseneaza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1E65DE24C197F2007A4A73 /* Deseneaza.swift */; };
+		1A1E65E124C1ACF9007A4A73 /* Primitive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1E65E024C1ACF9007A4A73 /* Primitive.swift */; };
+		1A1E65E324C1B2FA007A4A73 /* Shader.metal in Sources */ = {isa = PBXBuildFile; fileRef = 1A1E65E224C1B2FA007A4A73 /* Shader.metal */; };
+		1A8C8CA3267A35AA00AA57D5 /* S6.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9D267A35AA00AA57D5 /* S6.obj */; };
+		1A8C8CA4267A35AA00AA57D5 /* S6.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9D267A35AA00AA57D5 /* S6.obj */; };
+		1A8C8CA5267A35AA00AA57D5 /* S6.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9D267A35AA00AA57D5 /* S6.obj */; };
+		1A8C8CA6267A35AA00AA57D5 /* S4.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9E267A35AA00AA57D5 /* S4.obj */; };
+		1A8C8CA7267A35AA00AA57D5 /* S4.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9E267A35AA00AA57D5 /* S4.obj */; };
+		1A8C8CA8267A35AA00AA57D5 /* S4.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9E267A35AA00AA57D5 /* S4.obj */; };
+		1A8C8CA9267A35AA00AA57D5 /* S5.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9F267A35AA00AA57D5 /* S5.obj */; };
+		1A8C8CAA267A35AA00AA57D5 /* S5.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9F267A35AA00AA57D5 /* S5.obj */; };
+		1A8C8CAB267A35AA00AA57D5 /* S5.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8C9F267A35AA00AA57D5 /* S5.obj */; };
+		1A8C8CAC267A35AA00AA57D5 /* S2.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA0267A35AA00AA57D5 /* S2.obj */; };
+		1A8C8CAD267A35AA00AA57D5 /* S2.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA0267A35AA00AA57D5 /* S2.obj */; };
+		1A8C8CAE267A35AA00AA57D5 /* S2.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA0267A35AA00AA57D5 /* S2.obj */; };
+		1A8C8CAF267A35AA00AA57D5 /* S3.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA1267A35AA00AA57D5 /* S3.obj */; };
+		1A8C8CB0267A35AA00AA57D5 /* S3.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA1267A35AA00AA57D5 /* S3.obj */; };
+		1A8C8CB1267A35AA00AA57D5 /* S3.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA1267A35AA00AA57D5 /* S3.obj */; };
+		1A8C8CB2267A35AA00AA57D5 /* S1.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA2267A35AA00AA57D5 /* S1.obj */; };
+		1A8C8CB3267A35AA00AA57D5 /* S1.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA2267A35AA00AA57D5 /* S1.obj */; };
+		1A8C8CB4267A35AA00AA57D5 /* S1.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1A8C8CA2267A35AA00AA57D5 /* S1.obj */; };
+		1AF7673F265129DD0066C111 /* Actor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF7673E265129DD0066C111 /* Actor.swift */; };
+		1AF7674426512BBE0066C111 /* AlgebraLiniara.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF7674326512BBE0066C111 /* AlgebraLiniara.swift */; };
+		1AF76749265133370066C111 /* Scena.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF76748265133370066C111 /* Scena.swift */; };
+		1AF7674E265134500066C111 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF7674D265134500066C111 /* Camera.swift */; };
+		1AF7675326514C8F0066C111 /* Personajele.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF7675226514C8F0066C111 /* Personajele.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1A1E65C224C18FFE007A4A73 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1A1E65A724C18FFB007A4A73 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1A1E65AE24C18FFB007A4A73;
+			remoteInfo = "Metal Rendering Pipeline";
+		};
+		1A1E65CD24C18FFE007A4A73 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1A1E65A724C18FFB007A4A73 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1A1E65AE24C18FFB007A4A73;
+			remoteInfo = "Metal Rendering Pipeline";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1A01E1402658373600EED59D /* Slide1.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Slide1.obj; sourceTree = "<group>"; };
+		1A01E1412658373600EED59D /* f1_high.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = f1_high.obj; sourceTree = "<group>"; };
+		1A06FBFB2656B54400CE1422 /* Alb.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Alb.obj; path = Fundal/Alb.obj; sourceTree = "<group>"; };
+		1A06FBFC2656B54400CE1422 /* cce8f4.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = cce8f4.obj; path = Fundal/cce8f4.obj; sourceTree = "<group>"; };
+		1A06FBFD2656B54400CE1422 /* Planula3c1d9.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Planula3c1d9.obj; path = Fundal/Planula3c1d9.obj; sourceTree = "<group>"; };
+		1A06FBFE2656B54400CE1422 /* a3c1d9.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = a3c1d9.obj; path = Fundal/a3c1d9.obj; sourceTree = "<group>"; };
+		1A06FC172656D54900CE1422 /* Prezentare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prezentare.swift; sourceTree = "<group>"; };
+		1A1E65AF24C18FFB007A4A73 /* Proiect Atestat Metal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Proiect Atestat Metal.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A1E65B224C18FFB007A4A73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1A1E65B424C18FFB007A4A73 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1A1E65B624C18FFE007A4A73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1A1E65B924C18FFE007A4A73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1A1E65BB24C18FFE007A4A73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A1E65BC24C18FFE007A4A73 /* Metal_Rendering_Pipeline.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Metal_Rendering_Pipeline.entitlements; sourceTree = "<group>"; };
+		1A1E65C124C18FFE007A4A73 /* Proiect Atestat MetalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Proiect Atestat MetalTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A1E65CC24C18FFE007A4A73 /* Proiect Atestat MetalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Proiect Atestat MetalUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A1E65DE24C197F2007A4A73 /* Deseneaza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deseneaza.swift; sourceTree = "<group>"; };
+		1A1E65E024C1ACF9007A4A73 /* Primitive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Primitive.swift; sourceTree = "<group>"; };
+		1A1E65E224C1B2FA007A4A73 /* Shader.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = Shader.metal; sourceTree = "<group>"; };
+		1A8C8C9D267A35AA00AA57D5 /* S6.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S6.obj; sourceTree = "<group>"; };
+		1A8C8C9E267A35AA00AA57D5 /* S4.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S4.obj; sourceTree = "<group>"; };
+		1A8C8C9F267A35AA00AA57D5 /* S5.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S5.obj; sourceTree = "<group>"; };
+		1A8C8CA0267A35AA00AA57D5 /* S2.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S2.obj; sourceTree = "<group>"; };
+		1A8C8CA1267A35AA00AA57D5 /* S3.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S3.obj; sourceTree = "<group>"; };
+		1A8C8CA2267A35AA00AA57D5 /* S1.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = S1.obj; sourceTree = "<group>"; };
+		1AF7673E265129DD0066C111 /* Actor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Actor.swift; sourceTree = "<group>"; };
+		1AF7674326512BBE0066C111 /* AlgebraLiniara.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgebraLiniara.swift; sourceTree = "<group>"; };
+		1AF76748265133370066C111 /* Scena.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scena.swift; sourceTree = "<group>"; };
+		1AF7674D265134500066C111 /* Camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
+		1AF7675226514C8F0066C111 /* Personajele.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Personajele.swift; sourceTree = "<group>"; };
+		1AF7677726518AF00066C111 /* Japan_Teen_Girl.obj */ = {isa = PBXFileReference; lastKnownFileType = text; path = Japan_Teen_Girl.obj; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1A1E65AC24C18FFB007A4A73 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A1E65BE24C18FFE007A4A73 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A1E65C924C18FFE007A4A73 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1A1E65A624C18FFB007A4A73 = {
+			isa = PBXGroup;
+			children = (
+				1AF7676C265189700066C111 /* Resources */,
+				1A1E65B124C18FFB007A4A73 /* Metal Rendering Pipeline */,
+				1A1E65B024C18FFB007A4A73 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1A1E65B024C18FFB007A4A73 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1A1E65AF24C18FFB007A4A73 /* Proiect Atestat Metal.app */,
+				1A1E65C124C18FFE007A4A73 /* Proiect Atestat MetalTests.xctest */,
+				1A1E65CC24C18FFE007A4A73 /* Proiect Atestat MetalUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1A1E65B124C18FFB007A4A73 /* Metal Rendering Pipeline */ = {
+			isa = PBXGroup;
+			children = (
+				1AF7675226514C8F0066C111 /* Personajele.swift */,
+				1A1E65B224C18FFB007A4A73 /* AppDelegate.swift */,
+				1A1E65B424C18FFB007A4A73 /* ViewController.swift */,
+				1A1E65DE24C197F2007A4A73 /* Deseneaza.swift */,
+				1A1E65E224C1B2FA007A4A73 /* Shader.metal */,
+				1AF7673E265129DD0066C111 /* Actor.swift */,
+				1AF76748265133370066C111 /* Scena.swift */,
+				1AF7674D265134500066C111 /* Camera.swift */,
+				1AF7674326512BBE0066C111 /* AlgebraLiniara.swift */,
+				1A06FC172656D54900CE1422 /* Prezentare.swift */,
+				1A1E65E024C1ACF9007A4A73 /* Primitive.swift */,
+				1A1E65B624C18FFE007A4A73 /* Assets.xcassets */,
+				1A1E65B824C18FFE007A4A73 /* Main.storyboard */,
+				1A1E65BB24C18FFE007A4A73 /* Info.plist */,
+				1A1E65BC24C18FFE007A4A73 /* Metal_Rendering_Pipeline.entitlements */,
+			);
+			path = "Metal Rendering Pipeline";
+			sourceTree = "<group>";
+		};
+		1AF7676C265189700066C111 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1A8C8CA2267A35AA00AA57D5 /* S1.obj */,
+				1A8C8CA0267A35AA00AA57D5 /* S2.obj */,
+				1A8C8CA1267A35AA00AA57D5 /* S3.obj */,
+				1A8C8C9E267A35AA00AA57D5 /* S4.obj */,
+				1A8C8C9F267A35AA00AA57D5 /* S5.obj */,
+				1A8C8C9D267A35AA00AA57D5 /* S6.obj */,
+				1AF7677726518AF00066C111 /* Japan_Teen_Girl.obj */,
+				1A01E1412658373600EED59D /* f1_high.obj */,
+				1A01E1402658373600EED59D /* Slide1.obj */,
+				1A06FBFE2656B54400CE1422 /* a3c1d9.obj */,
+				1A06FBFB2656B54400CE1422 /* Alb.obj */,
+				1A06FBFC2656B54400CE1422 /* cce8f4.obj */,
+				1A06FBFD2656B54400CE1422 /* Planula3c1d9.obj */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1A1E65AE24C18FFB007A4A73 /* Proiect Atestat Metal */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A1E65D524C18FFE007A4A73 /* Build configuration list for PBXNativeTarget "Proiect Atestat Metal" */;
+			buildPhases = (
+				1A1E65AB24C18FFB007A4A73 /* Sources */,
+				1A1E65AC24C18FFB007A4A73 /* Frameworks */,
+				1A1E65AD24C18FFB007A4A73 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Proiect Atestat Metal";
+			productName = "Metal Rendering Pipeline";
+			productReference = 1A1E65AF24C18FFB007A4A73 /* Proiect Atestat Metal.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1A1E65C024C18FFE007A4A73 /* Proiect Atestat MetalTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A1E65D824C18FFE007A4A73 /* Build configuration list for PBXNativeTarget "Proiect Atestat MetalTests" */;
+			buildPhases = (
+				1A1E65BD24C18FFE007A4A73 /* Sources */,
+				1A1E65BE24C18FFE007A4A73 /* Frameworks */,
+				1A1E65BF24C18FFE007A4A73 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1A1E65C324C18FFE007A4A73 /* PBXTargetDependency */,
+			);
+			name = "Proiect Atestat MetalTests";
+			productName = "Metal Rendering PipelineTests";
+			productReference = 1A1E65C124C18FFE007A4A73 /* Proiect Atestat MetalTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		1A1E65CB24C18FFE007A4A73 /* Proiect Atestat MetalUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A1E65DB24C18FFE007A4A73 /* Build configuration list for PBXNativeTarget "Proiect Atestat MetalUITests" */;
+			buildPhases = (
+				1A1E65C824C18FFE007A4A73 /* Sources */,
+				1A1E65C924C18FFE007A4A73 /* Frameworks */,
+				1A1E65CA24C18FFE007A4A73 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1A1E65CE24C18FFE007A4A73 /* PBXTargetDependency */,
+			);
+			name = "Proiect Atestat MetalUITests";
+			productName = "Metal Rendering PipelineUITests";
+			productReference = 1A1E65CC24C18FFE007A4A73 /* Proiect Atestat MetalUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1A1E65A724C18FFB007A4A73 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1150;
+				LastUpgradeCheck = 1330;
+				ORGANIZATIONNAME = "Bogdan Rosca";
+				TargetAttributes = {
+					1A1E65AE24C18FFB007A4A73 = {
+						CreatedOnToolsVersion = 11.5;
+					};
+					1A1E65C024C18FFE007A4A73 = {
+						CreatedOnToolsVersion = 11.5;
+						TestTargetID = 1A1E65AE24C18FFB007A4A73;
+					};
+					1A1E65CB24C18FFE007A4A73 = {
+						CreatedOnToolsVersion = 11.5;
+						TestTargetID = 1A1E65AE24C18FFB007A4A73;
+					};
+				};
+			};
+			buildConfigurationList = 1A1E65AA24C18FFB007A4A73 /* Build configuration list for PBXProject "Proiect Atestat Metal" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1A1E65A624C18FFB007A4A73;
+			productRefGroup = 1A1E65B024C18FFB007A4A73 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1A1E65AE24C18FFB007A4A73 /* Proiect Atestat Metal */,
+				1A1E65C024C18FFE007A4A73 /* Proiect Atestat MetalTests */,
+				1A1E65CB24C18FFE007A4A73 /* Proiect Atestat MetalUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1A1E65AD24C18FFB007A4A73 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A8C8CAF267A35AA00AA57D5 /* S3.obj in Resources */,
+				1A8C8CA6267A35AA00AA57D5 /* S4.obj in Resources */,
+				1A01E1422658373600EED59D /* Slide1.obj in Resources */,
+				1A8C8CB2267A35AA00AA57D5 /* S1.obj in Resources */,
+				1A06FC022656B54400CE1422 /* cce8f4.obj in Resources */,
+				1A01E1452658373600EED59D /* f1_high.obj in Resources */,
+				1A8C8CA9267A35AA00AA57D5 /* S5.obj in Resources */,
+				1A06FC082656B54400CE1422 /* a3c1d9.obj in Resources */,
+				1A06FC052656B54400CE1422 /* Planula3c1d9.obj in Resources */,
+				1A1E65B724C18FFE007A4A73 /* Assets.xcassets in Resources */,
+				1A8C8CAC267A35AA00AA57D5 /* S2.obj in Resources */,
+				1A06FBFF2656B54400CE1422 /* Alb.obj in Resources */,
+				1A8C8CA3267A35AA00AA57D5 /* S6.obj in Resources */,
+				1A1E65BA24C18FFE007A4A73 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A1E65BF24C18FFE007A4A73 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A8C8CAD267A35AA00AA57D5 /* S2.obj in Resources */,
+				1A06FC092656B54400CE1422 /* a3c1d9.obj in Resources */,
+				1A06FC062656B54400CE1422 /* Planula3c1d9.obj in Resources */,
+				1A8C8CB3267A35AA00AA57D5 /* S1.obj in Resources */,
+				1A8C8CA4267A35AA00AA57D5 /* S6.obj in Resources */,
+				1A06FC032656B54400CE1422 /* cce8f4.obj in Resources */,
+				1A01E1432658373600EED59D /* Slide1.obj in Resources */,
+				1A01E1462658373600EED59D /* f1_high.obj in Resources */,
+				1A8C8CA7267A35AA00AA57D5 /* S4.obj in Resources */,
+				1A06FC002656B54400CE1422 /* Alb.obj in Resources */,
+				1A8C8CAA267A35AA00AA57D5 /* S5.obj in Resources */,
+				1A8C8CB0267A35AA00AA57D5 /* S3.obj in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A1E65CA24C18FFE007A4A73 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A8C8CAE267A35AA00AA57D5 /* S2.obj in Resources */,
+				1A06FC0A2656B54400CE1422 /* a3c1d9.obj in Resources */,
+				1A06FC072656B54400CE1422 /* Planula3c1d9.obj in Resources */,
+				1A8C8CB4267A35AA00AA57D5 /* S1.obj in Resources */,
+				1A8C8CA5267A35AA00AA57D5 /* S6.obj in Resources */,
+				1A06FC042656B54400CE1422 /* cce8f4.obj in Resources */,
+				1A01E1442658373600EED59D /* Slide1.obj in Resources */,
+				1A01E1472658373600EED59D /* f1_high.obj in Resources */,
+				1A8C8CA8267A35AA00AA57D5 /* S4.obj in Resources */,
+				1A06FC012656B54400CE1422 /* Alb.obj in Resources */,
+				1A8C8CAB267A35AA00AA57D5 /* S5.obj in Resources */,
+				1A8C8CB1267A35AA00AA57D5 /* S3.obj in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1A1E65AB24C18FFB007A4A73 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A1E65B524C18FFB007A4A73 /* ViewController.swift in Sources */,
+				1A1E65DF24C197F2007A4A73 /* Deseneaza.swift in Sources */,
+				1AF76749265133370066C111 /* Scena.swift in Sources */,
+				1AF7674426512BBE0066C111 /* AlgebraLiniara.swift in Sources */,
+				1AF7675326514C8F0066C111 /* Personajele.swift in Sources */,
+				1A1E65B324C18FFB007A4A73 /* AppDelegate.swift in Sources */,
+				1AF7673F265129DD0066C111 /* Actor.swift in Sources */,
+				1A1E65E124C1ACF9007A4A73 /* Primitive.swift in Sources */,
+				1A1E65E324C1B2FA007A4A73 /* Shader.metal in Sources */,
+				1A06FC182656D54900CE1422 /* Prezentare.swift in Sources */,
+				1AF7674E265134500066C111 /* Camera.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A1E65BD24C18FFE007A4A73 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A06FC192656D54900CE1422 /* Prezentare.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A1E65C824C18FFE007A4A73 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A06FC1A2656D54900CE1422 /* Prezentare.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1A1E65C324C18FFE007A4A73 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1A1E65AE24C18FFB007A4A73 /* Proiect Atestat Metal */;
+			targetProxy = 1A1E65C224C18FFE007A4A73 /* PBXContainerItemProxy */;
+		};
+		1A1E65CE24C18FFE007A4A73 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1A1E65AE24C18FFB007A4A73 /* Proiect Atestat Metal */;
+			targetProxy = 1A1E65CD24C18FFE007A4A73 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1A1E65B824C18FFE007A4A73 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1A1E65B924C18FFE007A4A73 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1A1E65D324C18FFE007A4A73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1A1E65D424C18FFE007A4A73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		1A1E65D624C18FFE007A4A73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Metal Rendering Pipeline/Metal_Rendering_Pipeline.entitlements";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = CPEVFU2Z4F;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = "Metal Rendering Pipeline/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Proiect-Atestat";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		1A1E65D724C18FFE007A4A73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Metal Rendering Pipeline/Metal_Rendering_Pipeline.entitlements";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = CPEVFU2Z4F;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = "Metal Rendering Pipeline/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Proiect-Atestat";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		1A1E65D924C18FFE007A4A73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = CPEVFU2Z4F;
+				INFOPLIST_FILE = "Metal Rendering PipelineTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = "OLEEE.Metal-Rendering-PipelineTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Proiect Atestat Metal.app/Contents/MacOS/Proiect Atestat Metal";
+			};
+			name = Debug;
+		};
+		1A1E65DA24C18FFE007A4A73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = CPEVFU2Z4F;
+				INFOPLIST_FILE = "Metal Rendering PipelineTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = "OLEEE.Metal-Rendering-PipelineTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Proiect Atestat Metal.app/Contents/MacOS/Proiect Atestat Metal";
+			};
+			name = Release;
+		};
+		1A1E65DC24C18FFE007A4A73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = CPEVFU2Z4F;
+				INFOPLIST_FILE = "Metal Rendering PipelineUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "OLEEE.Metal-Rendering-PipelineUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Metal Rendering Pipeline";
+			};
+			name = Debug;
+		};
+		1A1E65DD24C18FFE007A4A73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = CPEVFU2Z4F;
+				INFOPLIST_FILE = "Metal Rendering PipelineUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "OLEEE.Metal-Rendering-PipelineUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Metal Rendering Pipeline";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1A1E65AA24C18FFB007A4A73 /* Build configuration list for PBXProject "Proiect Atestat Metal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A1E65D324C18FFE007A4A73 /* Debug */,
+				1A1E65D424C18FFE007A4A73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A1E65D524C18FFE007A4A73 /* Build configuration list for PBXNativeTarget "Proiect Atestat Metal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A1E65D624C18FFE007A4A73 /* Debug */,
+				1A1E65D724C18FFE007A4A73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A1E65D824C18FFE007A4A73 /* Build configuration list for PBXNativeTarget "Proiect Atestat MetalTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A1E65D924C18FFE007A4A73 /* Debug */,
+				1A1E65DA24C18FFE007A4A73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A1E65DB24C18FFE007A4A73 /* Build configuration list for PBXNativeTarget "Proiect Atestat MetalUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A1E65DC24C18FFE007A4A73 /* Debug */,
+				1A1E65DD24C18FFE007A4A73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1A1E65A724C18FFB007A4A73 /* Project object */;
+}
